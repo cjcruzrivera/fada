@@ -1,0 +1,13 @@
+5 12
+Libro1 10
+Libro2 20
+Libro3 30
+Libro4 35
+Libro5 10
+Libro6 20
+Libro7 30
+Libro8 35
+Libro9 10
+Libro10 20
+Libro11 30
+Libro12 35
