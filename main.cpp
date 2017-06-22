@@ -167,7 +167,7 @@ void solIngenua(){
         }else{
             cout << "Al escritor número "<< j+1 << " se le asignaran los siguientes libros:"<<endl;
             for(int k = solucion[j].inicio;k<=solucion[j].final ;k++){
-                cout << "Titulo: " << libros[k-1]<<endl;
+                cout << "Título: " << libros[k-1]<<endl;
             }       
         }
     }  
